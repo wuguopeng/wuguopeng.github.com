@@ -1,35 +1,12 @@
-## Educational Background
+### Educational Background
 * 2016.9-2019.6  South China University of Technology, Guangzhou.  Master degree Automation.
 * 2010.9-2014.7  Huazhong University of Science and Technology, Wuhan.  Bachelor Degree Automation.
 
-### Markdown
+### Work Experience
+* 2014.7-2015.6  Zhejiang Qianjiang Robot Co Ltd, worked as Technical Support, can operate ABB and FANUC industrial robots.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Experience
+* 2018.2-2018.6  University Claude Bernard Lyon 1, mobile robot indoor SLAM. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuguopeng/wuguopeng.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Skills
+familiar with C/C++, Python, Matlab
