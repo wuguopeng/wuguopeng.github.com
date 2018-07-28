@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Educational Background
 
-You can use the [editor on GitHub](https://github.com/wuguopeng/wuguopeng.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2016.9-2019.6  South China University of Technology, Guangzhou.  Master degree Automation
+2010.9-2014.7  Huazhong University of Science and Technology, Wuhan.  Bachelor Degree Automation
 
 ### Markdown
 
