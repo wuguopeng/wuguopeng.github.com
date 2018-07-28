@@ -1,7 +1,7 @@
 ## Educational Background
 ![](https://wuguopeng.github.com/images/SCUT.png)
-*2016.9-2019.6  South China University of Technology, Guangzhou.  Master degree Automation.
-*2010.9-2014.7  Huazhong University of Science and Technology, Wuhan.  Bachelor Degree Automation.
+* 2016.9-2019.6  South China University of Technology, Guangzhou.  Master degree Automation.
+* 2010.9-2014.7  Huazhong University of Science and Technology, Wuhan.  Bachelor Degree Automation.
 
 ### Markdown
 
